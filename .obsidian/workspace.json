@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8932fa35fe94c4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b8790b663882beab",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4a77b18a70514d",
+  "active": "8932fa35fe94c4a5",
   "lastOpenFiles": [
+    "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
     "Maturita/PV/List maturitních otázek z PV.md",
-    "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
     "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
     "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
     "Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu.md",
     "Ahoj.md",
     "Untitled.canvas",
     "2023-01-11.md",
-    "Untitled.md"
+    "README.md"
   ]
 }
