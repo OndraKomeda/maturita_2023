@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "568cf5ab3b92f392",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bb8c5a10041a2b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942cdae9cfee4774",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8790b663882beab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6213286d0bf1b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7dbd70ee04606d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4a77b18a70514d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12fe8e532446eafd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d33ac6c4f726ad0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0258f161857469f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fefeaeb69933f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37c56a8b46cfbf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "952409b8596d44b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80207abdecc77e8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a429d34a2934135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "942cdae9cfee4774",
+  "lastOpenFiles": [
+    "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
+    "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
+    "Maturita/PV/List maturitních otázek z PV.md",
+    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
+    "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
+    "Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu.md",
+    "Ahoj.md",
+    "Untitled.canvas",
+    "2023-01-11.md",
+    "Untitled.md"
+  ]
+}
