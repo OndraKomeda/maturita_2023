@@ -11,8 +11,12 @@
             "id": "942cdae9cfee4774",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md"
+              }
             }
           }
         ]
@@ -150,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "942cdae9cfee4774",
+  "active": "1a4a77b18a70514d",
   "lastOpenFiles": [
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
-    "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
     "Maturita/PV/List maturitních otázek z PV.md",
-    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
     "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
+    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
+    "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
     "Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu.md",
     "Ahoj.md",
     "Untitled.canvas",
