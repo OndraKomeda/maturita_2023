@@ -15,13 +15,11 @@
 15. [[HTTP]]
 16. [[SSL/TLS, RSA]]
 17. [[IMAP, SMTP]]
-18. [[Teorie OS - fungování OS, struktura OS, správa procesů, pseudoparalelismus]]
-19. [[Cloud computing - různé vitalizace typy (SaaS, PaaS, IaaS), výhody a nevýhody]]
+18. [[Teorie OS]]
+19. [[Cloud computing (SaaS, PaaS, IaaS)]]
 20. [[OS Linux - Struktura OS, Shell: koncepce, typy, příkazy. Správa programového vybavení. Start systému. Služby, naplánované procesy. Souborový sytém, Účel základních adresářů.]]
 21. [[OS Linux - Sprava uzivatelu, skupin.]]
 22. [[OS Linux - Vzdálená správa Firewall]]
--   OS Linux - Tvorba skriptů. Práce s textovými soubory, filtrace, Regulární výrazy.
-    
--   Etherchannel, principy, funkce, použití
-    
--   HSRP, principy, funkce, použití, konfigurace
+23. [[OS Linux - Tvorba skriptů. Práce s textovými soubory, filtrace, Regulární výrazy.]]
+24. [[Etherchannel]]
+25. [[HSRP]]
