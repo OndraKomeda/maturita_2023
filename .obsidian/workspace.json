@@ -23,8 +23,12 @@
             "id": "8932fa35fe94c4a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -102,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0258f161857469f1",
@@ -119,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md"
+              }
             }
           }
         ]
