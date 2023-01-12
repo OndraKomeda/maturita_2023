@@ -55,16 +55,24 @@
             "id": "5adbe15fd2638c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DHCP4.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20230112124806.png"
+              }
+            }
+          },
+          {
+            "id": "5dfd938cd0bad2d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230112124308.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DHCP4.md",
+                "file": "Images/Pasted image 20230112124308.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DHCP4.md",
+                "file": "Images/Pasted image 20230112124308.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DHCP4.md"
+                "file": "Images/Pasted image 20230112124308.png"
               }
             }
           }
@@ -191,17 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5adbe15fd2638c9b",
+  "active": "1a4a77b18a70514d",
   "lastOpenFiles": [
+    "Maturita/Images.md",
+    "Images/Pasted image 20230112124308.png",
+    "Images/Pasted image 20230112124806.png",
+    "Maturita/PSS/Otazky/DHCP4.md",
     "Maturita/PSS/List maturitnich otazek z PSS.md",
     "Maturita/PSS/Otazky/HSRP.md",
     "Untitled.canvas",
     "Templates/Maturitni otazka..md",
     "Maturita/PV/List maturitních otázek z PV.md",
-    "IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6.md",
-    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
-    "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
-    "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
-    "README.md"
+    "IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6.md"
   ]
 }
