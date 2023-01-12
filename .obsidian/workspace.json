@@ -55,15 +55,11 @@
             "id": "5adbe15fd2638c9b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -34.944640863511154,
-                  "y": -83.48235348026805,
-                  "zoom": 1,
-                  "snapToGrid": false
-                }
+                "file": "DHCP4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -134,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "DHCP4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "DHCP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "DHCP4.md"
               }
             }
           }
@@ -199,13 +195,13 @@
   "lastOpenFiles": [
     "Maturita/PSS/List maturitnich otazek z PSS.md",
     "Maturita/PSS/Otazky/HSRP.md",
+    "Untitled.canvas",
     "Templates/Maturitni otazka..md",
     "Maturita/PV/List maturitních otázek z PV.md",
     "IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6.md",
     "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
     "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
-    "README.md",
-    "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md"
+    "README.md"
   ]
 }
