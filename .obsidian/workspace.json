@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Maturitni otazka..md",
+                "file": "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Maturitni otazka..md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Maturitni otazka..md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Maturitni otazka..md"
+                "file": "README.md"
               }
             }
           }
@@ -183,15 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9c484d92dd3322c",
+  "active": "8932fa35fe94c4a5",
   "lastOpenFiles": [
-    "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
     "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
-    "Templates/Maturitni otazka..md",
     "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
+    "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
-    "README.md",
     "Maturita/PV/List maturitních otázek z PV.md",
+    "Templates/Maturitni otazka..md",
+    "README.md",
     "Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu.md",
     "Ahoj.md",
     "Untitled.canvas"
