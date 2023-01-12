@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0258f161857469f1",
@@ -118,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md"
+              }
             }
           }
         ]
@@ -175,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8932fa35fe94c4a5",
+  "active": "f9c484d92dd3322c",
   "lastOpenFiles": [
     "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
