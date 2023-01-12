@@ -65,9 +65,11 @@
             "id": "5dfd938cd0bad2d8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230112124308.png"
+                "file": "Maturita/PSS/Otazky/DHCP4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230112124308.png",
+                "file": "Maturita/PSS/Otazky/DHCP4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230112124308.png",
+                "file": "Maturita/PSS/Otazky/DHCP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230112124308.png"
+                "file": "Maturita/PSS/Otazky/DHCP4.md"
               }
             }
           }
@@ -199,14 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4a77b18a70514d",
+  "active": "5dfd938cd0bad2d8",
   "lastOpenFiles": [
-    "Maturita/Images.md",
+    "Maturita/PSS/Otazky/HSRP.md",
     "Images/Pasted image 20230112124308.png",
+    "Maturita/Images.md",
     "Images/Pasted image 20230112124806.png",
     "Maturita/PSS/Otazky/DHCP4.md",
     "Maturita/PSS/List maturitnich otazek z PSS.md",
-    "Maturita/PSS/Otazky/HSRP.md",
     "Untitled.canvas",
     "Templates/Maturitni otazka..md",
     "Maturita/PV/List maturitních otázek z PV.md",
