@@ -43,11 +43,15 @@
             "id": "f9c484d92dd3322c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Pojmy.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 38.4512806204541,
+                  "y": 9.130603048480275,
+                  "zoom": 0.32342227652668953,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -142,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Pojmy.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Pojmy.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Pojmy.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -205,13 +209,13 @@
   },
   "active": "f9c484d92dd3322c",
   "lastOpenFiles": [
+    "Maturita/CJ/Pojmy/Pojmy.md",
     "Templates/Maturitni otazka..md",
     "Images/Pasted image 20230112124806.png",
     "Maturita/PSS/Otazky/DHCP4.md",
     "Maturita/PSS/List maturitnich otazek z PSS.md",
     "Maturita/PSS/Otazky/Zabezpeceni siti - Filtrace provozu, Firewall, NAT.md",
     "Maturita/PV/List maturitních otázek z PV.md",
-    "Maturita/CJ/Pojmy/Pojmy.md",
     "Email dedovi.md",
     "Maturita/PSS/Otazky/HSRP.md",
     "Images/Pasted image 20230112124308.png"

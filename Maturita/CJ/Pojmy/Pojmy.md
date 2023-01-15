@@ -20,6 +20,9 @@
 6. Umělecký
 
 ## Historie Čech od 19. do 21. století
+### Čechy za Rakousko-uherska
+### První republika
+### Druhá republika
 
 
 ## Literární skupiny

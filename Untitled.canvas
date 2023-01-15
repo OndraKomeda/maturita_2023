@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ef7ffed52d90e2ae","x":-317,"y":-116,"width":186,"height":66,"type":"text","text":"1918 - 1938\nPrvní republika\n\n\n\n\n"},
+		{"id":"039fd0ba0a46ad73","x":-317,"y":-27,"width":186,"height":66,"type":"text","text":"1938 - 1939\nDruhá republika\n\n\n\n\n"},
+		{"id":"d31f040b0edf0a8f","x":-317,"y":61,"width":186,"height":86,"type":"text","text":"1939 - 1945\nProtektorát Čechy Morava\n\n\n\n"}
+	],
+	"edges":[]
+}
