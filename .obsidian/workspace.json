@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Sholove postupy.md",
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Sholove postupy.md",
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Sholove postupy.md",
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Sholove postupy.md"
+                "file": "Maturita/CJ/Pojmy/Pojmy.md"
               }
             }
           }
@@ -213,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4a77b18a70514d",
+  "active": "5e3fd2fed2cf68fe",
   "lastOpenFiles": [
     "Email dedovi.md",
     "Maturita/PSS/Otazky/DHCP4.md",
