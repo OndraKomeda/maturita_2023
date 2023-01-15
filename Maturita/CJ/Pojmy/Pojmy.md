@@ -23,6 +23,9 @@
 ### Čechy za Rakousko-uherska
 ### První republika
 ### Druhá republika
+### Protektorát Čechy Morava
+### Třetí republika
+### Komunismus
 
 
 ## Literární skupiny
@@ -37,4 +40,5 @@
 6. Skupina 42
 7. prokletí básnící
 8. ztracená generace
+	Doba: 
 9. beatníci
