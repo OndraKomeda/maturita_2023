@@ -47,9 +47,25 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 38.4512806204541,
-                  "y": 9.130603048480275,
-                  "zoom": 0.32342227652668953,
+                  "x": 80.04207789939258,
+                  "y": 14.932620929164976,
+                  "zoom": 0.2877129324277242,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "2f074ad82bd2fe7a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 22.025000000000038,
+                  "y": -26.424999999999986,
+                  "zoom": 0,
                   "snapToGrid": false
                 }
               }
@@ -80,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,8 +223,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9c484d92dd3322c",
+  "active": "2f074ad82bd2fe7a",
   "lastOpenFiles": [
+    "Maturita/CJ/Prvni republika.md",
+    "Untitled.canvas",
     "Maturita/CJ/Pojmy/Pojmy.md",
     "Templates/Maturitni otazka..md",
     "Images/Pasted image 20230112124806.png",
@@ -216,8 +234,6 @@
     "Maturita/PSS/List maturitnich otazek z PSS.md",
     "Maturita/PSS/Otazky/Zabezpeceni siti - Filtrace provozu, Firewall, NAT.md",
     "Maturita/PV/List maturitních otázek z PV.md",
-    "Email dedovi.md",
-    "Maturita/PSS/Otazky/HSRP.md",
-    "Images/Pasted image 20230112124308.png"
+    "Email dedovi.md"
   ]
 }

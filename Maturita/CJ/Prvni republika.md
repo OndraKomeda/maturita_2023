@@ -1,0 +1,1 @@
+Po osamostatnění se od Rakousko-Uherska. Do podepsání Mnichoské dohody.
