@@ -41,10 +41,13 @@
 	Autoři: Viktor Dyk
 5. Devětsil
 6. Skupina 42
+	Doba: Podle názvu 1942 do 1948.
+	Zaměření na obyčejný reálný městský život.
+	Autoři: 
 7. prokletí básnící
-8. ztracená generace
+8. lost generation
 	Doba: Básníci, kteří prožili první světovou válku na frontě. Narozeni kolem 1900.
 	Válka autorům způsobila psychické problémy a to šlo vidět v jejich dílech.
 	Autoři: Ernest Hemingway
-9. beatníci
+9. beat generation
 	Doba: 50 až 60 léta 20 století v USA.
