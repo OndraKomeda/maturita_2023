@@ -1,6 +1,7 @@
 # Table of contents
 - [[#Slohové postupy]]
 - [[#Funkční styly]]
+- [[#Historie Čech od 19. do 21. století]]
 - [[#Literární skupiny]]
 
 ## Slohové postupy
@@ -17,6 +18,9 @@
 4. Publicistický - Text pro širokou veřejnost, který je projde nějakou kontrolou.
 5. Řečnický - povídání na veřejnosti s cílem někoho přesvědčit.
 6. Umělecký
+
+## Historie Čech od 19. do 21. století
+
 
 ## Literární skupiny
 1. Májovci
