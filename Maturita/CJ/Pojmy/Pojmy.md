@@ -37,7 +37,8 @@
 3. Ruchovci
 4. Buřiči
 	Doba: 20 století do konce první světové války.
-	Bouří se proti své době.
+	Bouří se proti své době. Byla nedostatečná svoboda a to projevovali ve svých dílech.
+	Autoři: Viktor Dyk
 5. Devětsil
 6. Skupina 42
 7. prokletí básnící
@@ -46,5 +47,4 @@
 	Válka autorům způsobila psychické problémy a to šlo vidět v jejich dílech.
 	Autoři: Ernest Hemingway
 9. beatníci
-	Doba: 50 až 60 léta v USA.
-	
+	Doba: 50 až 60 léta 20 století v USA.
