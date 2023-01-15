@@ -40,7 +40,7 @@
 6. Skupina 42
 7. prokletí básnící
 8. ztracená generace
-	Doba: Básníci, kteří prožili první světovou válku. Narozeni kolem +
+	Doba: Básníci, kteří prožili první světovou válku. Narozeni kolem 1900.
 	Válka autorům způsobila psychické problémy a to šlo vidět v jejich dílech.
 	Autoři: Ernest Hemingway
 9. beatníci
