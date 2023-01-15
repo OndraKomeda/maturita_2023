@@ -59,15 +59,11 @@
             "id": "2f074ad82bd2fe7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 22.025000000000038,
-                  "y": -26.424999999999986,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -162,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Maturita/CJ/Pojmy/Pojmy.md"
               }
             }
           }

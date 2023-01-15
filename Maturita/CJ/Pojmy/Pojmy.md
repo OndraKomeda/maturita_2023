@@ -21,7 +21,7 @@
 
 ## Historie Čech od 19. do 21. století
 ### Čechy za Rakousko-uherska
-### První republika
+### První republika 
 ### Druhá republika
 ### Protektorát Čechy Morava
 ### Třetí republika
@@ -41,4 +41,5 @@
 7. prokletí básnící
 8. ztracená generace
 	Doba: 
+	C9
 9. beatníci
