@@ -20,9 +20,12 @@
 
 ## Literární skupiny
 1. Májovci
+	- Začátek
 2. Lumírovci
 3. Ruchovci
 4. Buřiči
 5. Devětsil
 6. Skupina 42
-7. prokletí 
+7. prokletí básnící
+8. ztracená generace
+9. beatníci
