@@ -45,19 +45,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Maturitni otazka..md",
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5adbe15fd2638c9b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230112124806.png"
               }
             }
           },
@@ -79,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maturita/CJ/Pojmy/Pojmy.md",
+                "file": "Maturita/PSS/List maturitnich otazek z PSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e3fd2fed2cf68fe",
+  "active": "f9c484d92dd3322c",
   "lastOpenFiles": [
-    "Email dedovi.md",
-    "Maturita/PSS/Otazky/DHCP4.md",
-    "Maturita/PSS/Otazky/HSRP.md",
-    "Images/Pasted image 20230112124308.png",
-    "Maturita/Images.md",
-    "Images/Pasted image 20230112124806.png",
-    "Maturita/PSS/List maturitnich otazek z PSS.md",
-    "Untitled.canvas",
     "Templates/Maturitni otazka..md",
-    "Maturita/PV/List maturitních otázek z PV.md"
+    "Images/Pasted image 20230112124806.png",
+    "Maturita/PSS/Otazky/DHCP4.md",
+    "Maturita/PSS/List maturitnich otazek z PSS.md",
+    "Maturita/PSS/Otazky/Zabezpeceni siti - Filtrace provozu, Firewall, NAT.md",
+    "Maturita/PV/List maturitních otázek z PV.md",
+    "Maturita/CJ/Pojmy/Pojmy.md",
+    "Email dedovi.md",
+    "Maturita/PSS/Otazky/HSRP.md",
+    "Images/Pasted image 20230112124308.png"
   ]
 }
