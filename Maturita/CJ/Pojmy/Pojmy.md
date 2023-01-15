@@ -36,6 +36,8 @@
 2. Lumírovci
 3. Ruchovci
 4. Buřiči
+	Doba: 20 století do konce první světové války.
+	Bouří se proti své době.
 5. Devětsil
 6. Skupina 42
 7. prokletí básnící
