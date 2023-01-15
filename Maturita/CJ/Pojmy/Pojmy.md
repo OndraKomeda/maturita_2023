@@ -20,7 +20,9 @@
 
 ## Literární skupiny
 1. Májovci
-	- Začátek
+	Doba: Od druhé poloviny 19. století.
+	Cíl: Snaha zvednout úrověn České literatury na světovou.
+	Autoři: Jan Neruda, Božena Němcová
 2. Lumírovci
 3. Ruchovci
 4. Buřiči
