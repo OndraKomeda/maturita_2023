@@ -72,9 +72,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e3fd2fed2cf68fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita/PSS/Otazky/DHCP4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita/PSS/Otazky/DHCP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maturita/PSS/Otazky/DHCP4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -201,17 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dfd938cd0bad2d8",
+  "active": "5e3fd2fed2cf68fe",
   "lastOpenFiles": [
+    "Email dedovi.md",
+    "Maturita/PSS/Otazky/DHCP4.md",
     "Maturita/PSS/Otazky/HSRP.md",
     "Images/Pasted image 20230112124308.png",
     "Maturita/Images.md",
     "Images/Pasted image 20230112124806.png",
-    "Maturita/PSS/Otazky/DHCP4.md",
     "Maturita/PSS/List maturitnich otazek z PSS.md",
     "Untitled.canvas",
     "Templates/Maturitni otazka..md",
-    "Maturita/PV/List maturitních otázek z PV.md",
-    "IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6.md"
+    "Maturita/PV/List maturitních otázek z PV.md"
   ]
 }
