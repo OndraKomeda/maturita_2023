@@ -8,7 +8,7 @@
 
 # Doporučení pro čtení a studování
 ## Jak si správně poznámky zobrazit?
-Pomocí nějakého .md editoru. Nejlépe Obsidian pro jistotu funkčnosti.
+Otevřít složku pomocí programu Obsidian, aby se všechny odkazy zobrazili správně.
 
 ## Jak spusit .ptk soubory?
 .ptk soubory jsou simulované síťové zapojení v programu "Packet tracer".
