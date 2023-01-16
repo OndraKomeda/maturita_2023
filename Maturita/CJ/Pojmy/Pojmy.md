@@ -4,6 +4,7 @@
 - [[#Historie Čech od 19. do 21. století]]
 - [[#Literární skupiny]]
 - [[#Druhy vypravěců]]
+- [[#t]]
 
 ## Slohové postupy
 1. Informační - Předává jednoduchou informaci.
@@ -64,8 +65,17 @@
 ## Formy a typy vypravěců
 ### Formy
 - Ich
+	Vyprávění v první osobě.
 - Er
+	Vyprávění ve třetí osobě.
 ### Typy
 - Vševědoucí
+	Ví vše. I myšlenky.
 - Autorský
+- Osobní
+	Sleduje jednu postavu a zná její myšlenky, ale ostatním do hlavy nevidí.
 - Přímý
+	Vypráví sama o sobě postava
+- "oko" kamery
+
+## Typy promluv
