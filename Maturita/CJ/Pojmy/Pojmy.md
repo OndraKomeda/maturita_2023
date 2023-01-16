@@ -23,12 +23,18 @@
 
 ## Historie Čech od 19. do 21. století
 ### Čechy za Rakousko-uherska
-### První republika 
-### Druhá republika
-### Protektorát Čechy Morava
-### Třetí republika
-### Komunismus
-
+### První republika 1918-1938
+- Vznik Československa
+- T. G. Masaryk
+### Druhá republika 1938-1939
+- Mnichovská dohoda
+### Protektorát Čechy Morava 1939- 1945
+- Okupace ČSR německem.
+- Konec druhé světové války
+### Třetí republika 1945-1948
+- Volby
+### Komunismus za KSČ 1948-1967
+### Komunismus po příjezdu SSSR 1967-1989
 
 ## Literární skupiny
 1. Májovci
@@ -86,6 +92,11 @@
 
 ### Řeč
 - Přímá 
+	Označená
+	Jakub řekl: ,, Jdi domů". Tak jsem šel.
 - Neoznačená příma
+	Jakub otevřel pusu. Jdi domů. Tak jsem šel.
 - Nepřímá
+	Př. Jakub řekl, že mám jít domů.
 - Polopřímá
+	Nelze 100% poznat v textu.
