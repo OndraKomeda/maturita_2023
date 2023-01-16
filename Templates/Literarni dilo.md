@@ -11,7 +11,8 @@
 	- [[#Typy promluv]]
 	- [[#Veršová výstavba]]
 3. část 
-	
+
+
 # Téma a motiv
 # Časoprostor
 # Kompoziční výstavba
