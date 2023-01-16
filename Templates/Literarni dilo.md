@@ -11,6 +11,7 @@
 	- [[#Typy promluv]]
 	- [[#Veršová výstavba]]
 3. část 
+	Hledání tropů a figur ve výňatku
 
 
 # Téma a motiv
