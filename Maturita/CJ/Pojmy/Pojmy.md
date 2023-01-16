@@ -61,4 +61,11 @@
 9. beat generation
 	Doba: 50 až 60 léta 20 století v USA.
 
-## Druhy vypravěců
+## Formy a typy vypravěců
+### Formy
+- Ich
+- Er
+### Typy
+- Vševědoucí
+- Autorský
+- Přímý

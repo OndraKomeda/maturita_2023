@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maturita/CJ/Pojmy/Pojmy.md"
+              }
             }
           }
         ]
@@ -150,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "942cdae9cfee4774",
+  "active": "8932fa35fe94c4a5",
   "lastOpenFiles": [
     "Maturita/CJ/Seznam literarnich del.md",
     "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
