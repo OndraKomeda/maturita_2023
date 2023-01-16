@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,20 +23,15 @@
             "id": "8932fa35fe94c4a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 173.94496884003118,
-                  "y": 21,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Maturita/CJ/Pojmy/Pojmy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md"
               }
             }
           }
@@ -163,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8932fa35fe94c4a5",
+  "active": "942cdae9cfee4774",
   "lastOpenFiles": [
-    "README.md",
+    "Maturita/CJ/Seznam literarnich del.md",
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
+    "Maturita/CJ/Pojmy/Pojmy.md",
+    "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
+    "Maturita/CJ/Prvni republika.md",
+    "Untitled.canvas",
+    "README.md",
     "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
     "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
-    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
-    "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
-    "Maturita/CJ/Seznam literarnich del.md",
-    "Maturita/PSS/Otazky/HSRP.md",
-    "Maturita/CJ/Prvni republika.md",
-    "Maturita/PSS/Otazky/DHCP4.md"
+    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md"
   ]
 }

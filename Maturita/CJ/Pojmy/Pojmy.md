@@ -3,6 +3,7 @@
 - [[#Funkční styly]]
 - [[#Historie Čech od 19. do 21. století]]
 - [[#Literární skupiny]]
+- [[#Druhy vypravěců]]
 
 ## Slohové postupy
 1. Informační - Předává jednoduchou informaci.
@@ -59,3 +60,5 @@
 	Autoři: Ernest Hemingway
 9. beat generation
 	Doba: 50 až 60 léta 20 století v USA.
+
+## Druhy vypravěců
