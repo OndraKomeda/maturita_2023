@@ -26,109 +26,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b8790b663882beab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9c484d92dd3322c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 80.04207789939258,
-                  "y": 14.932620929164976,
-                  "zoom": 0.2877129324277242,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "2f074ad82bd2fe7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/CJ/Pojmy/Pojmy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f0befd9f4ceafbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "665105b03e7716f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Literarni dilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ab6e73467610d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/CJ/Seznam literarnich del.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dfd938cd0bad2d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/PSS/Otazky/DHCP4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3fd2fed2cf68fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/PSS/List maturitnich otazek z PSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literarni dilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literarni dilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Literarni dilo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -255,17 +151,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "665105b03e7716f4",
+  "active": "8932fa35fe94c4a5",
   "lastOpenFiles": [
-    "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
-    "Maturita/CJ/Pojmy/Pojmy.md",
     "Maturita/CJ/Seznam literarnich del.md",
-    "Maturita/PSS/List maturitnich otazek z PSS.md",
     "Maturita/CJ/Prvni republika.md",
-    "Untitled.canvas",
-    "Templates/Maturitni otazka..md",
-    "Images/Pasted image 20230112124806.png",
+    "README.md",
     "Maturita/PSS/Otazky/DHCP4.md",
-    "Maturita/PSS/Otazky/Zabezpeceni siti - Filtrace provozu, Firewall, NAT.md"
+    "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
+    "Templates/Literarni dilo.md",
+    "Maturita/CJ/Pojmy/Pojmy.md",
+    "Maturita/PSS/List maturitnich otazek z PSS.md",
+    "Untitled.canvas",
+    "Templates/Maturitni otazka..md"
   ]
 }

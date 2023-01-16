@@ -12,7 +12,8 @@
 	- [[#Veršová výstavba]]
 3. část 
 	Hledání tropů a figur ve výňatku
-
+4. část
+	Autor a jeho doba
 
 # Téma a motiv
 # Časoprostor
