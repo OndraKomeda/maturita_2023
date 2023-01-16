@@ -1,10 +1,83 @@
+
 # Table of contents
+- [[#Struktura ústní zkoušky]]
+	1. část
+		- Téma a motiv
+		- Časoprostor
+		- [[#Kompoziční výstavba]]
+		- [[#Literární druh a žánr]]
+	2. část
+		- [[#Vypravěč / lirický subjekt]]
+		- Postavy
+		- [[#Vyprávěcí způsoby]]
+		- [[#Typy promluv]]
+		- [[#Veršová výstavba]]
+	3. část
+		- [[#Tropy a figury]]
 - [[#Slohové postupy]]
 - [[#Funkční styly]]
 - [[#Historie Čech od 19. do 21. století]]
 - [[#Literární skupiny]]
 - [[#Formy a typy vypravěců]]
 - [[#Typy promluv]]
+
+# Struktura ústní zkoušky
+## Kompoziční výstavba
+- Vnější
+	Jak je dílo složeno jako celek.
+	1. Kapitoly /.... 
+	2.  TODO
+- Vnitřní
+	Určuje jak je děj poskládán.
+	1. Chronologická
+	2. Retrospektivní
+	3. Rámcová
+	4. Paralelní
+
+## Literární druh a žánr 
+- Druhy
+	- epika
+		Děj psaný v próze.
+	- lyrika
+		Text bez děje.
+	- drama
+		Děj psaný dialogy a monology.
+
+## Vypravěč / lirický subjekt 
+Formy vypravěče
+- Ich-forma
+	Vyprávění v první osobě.
+- Er-forma
+	Vyprávění ve třetí osobě.
+
+Druhy vypravěče
+- Vševědoucí
+	Zná vše i myšlenky lidí.
+- Osobní
+	Následuje jednu postavu a vidí ji do hlavy.
+- Autorský
+	Zná co by měl znát a autor přidává vlastní komentáře a názory.
+- Přímý
+	Jeden z hlavních postav. Do hlavy vidí pouze sobě.
+- "oko" kamery
+	Vypráví pouze situace. Nikomu nevidí do hlavy.
+
+## Typy promluv
+- Monolog
+- Dialog
+
+### Řeč
+- Přímá 
+	Označená
+	Jakub řekl: ,, Jdi domů". Tak jsem šel.
+- Neoznačená příma
+	Jakub otevřel pusu. Jdi domů. Tak jsem šel.
+- Nepřímá
+	Př. Jakub řekl, že mám jít domů.
+- Polopřímá
+	Nelze 100% poznat v textu.
+
+## Tropy a figury
 
 ## Slohové postupy
 1. Informační - Předává jednoduchou informaci.
@@ -67,36 +140,3 @@
 	Autoři: Ernest Hemingway
 9. beat generation
 	Doba: 50 až 60 léta 20 století v USA.
-
-## Formy a typy vypravěců
-### Formy
-- Ich
-	Vyprávění v první osobě.
-- Er
-	Vyprávění ve třetí osobě.
-### Typy
-- Vševědoucí
-	Ví vše. I myšlenky.
-- Autorský
-	Ví vše co by měl a přidává vlastní názory a komentáře.
-- Osobní
-	Sleduje jednu postavu a zná její myšlenky, ale ostatním do hlavy nevidí.
-- Přímý
-	Vypráví sama o sobě postava
-- "oko" kamery
-	Přesně popisuje děj a to je vše. Nezná nikoho myšlenky
-
-## Typy promluv
-- Monolog
-- Dialog
-
-### Řeč
-- Přímá 
-	Označená
-	Jakub řekl: ,, Jdi domů". Tak jsem šel.
-- Neoznačená příma
-	Jakub otevřel pusu. Jdi domů. Tak jsem šel.
-- Nepřímá
-	Př. Jakub řekl, že mám jít domů.
-- Polopřímá
-	Nelze 100% poznat v textu.
