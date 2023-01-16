@@ -3,8 +3,8 @@
 - [[#Funkční styly]]
 - [[#Historie Čech od 19. do 21. století]]
 - [[#Literární skupiny]]
-- [[#Druhy vypravěců]]
-- [[#t]]
+- [[#Formy a typy vypravěců]]
+- [[#Typy promluv]]
 
 ## Slohové postupy
 1. Informační - Předává jednoduchou informaci.
@@ -72,10 +72,20 @@
 - Vševědoucí
 	Ví vše. I myšlenky.
 - Autorský
+	Ví vše co by měl a přidává vlastní názory a komentáře.
 - Osobní
 	Sleduje jednu postavu a zná její myšlenky, ale ostatním do hlavy nevidí.
 - Přímý
 	Vypráví sama o sobě postava
 - "oko" kamery
+	Přesně popisuje děj a to je vše. Nezná nikoho myšlenky
 
 ## Typy promluv
+- Monolog
+- Dialog
+
+### Řeč
+- Přímá 
+- Neoznačená příma
+- Nepřímá
+- Polopřímá
