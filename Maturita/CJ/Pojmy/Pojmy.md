@@ -1,3 +1,7 @@
+---
+cards-deck: maturita_2023::Maturita::CJ::Pojmy
+---
+
 
 # Table of contents
 - [[#Struktura ústní zkoušky]]
@@ -25,8 +29,9 @@
 ## Kompoziční výstavba
 - Vnější
 	Jak je dílo složeno jako celek.
-	1. Kapitoly /.... 
-	2.  TODO
+	- díly – kapitoly – odstavce
+	- zpěvy – básně – sloky – verše
+	- jednání – výstupy – repliky
 - Vnitřní
 	Určuje jak je děj poskládán.
 	1. Chronologická
@@ -62,11 +67,7 @@ Druhy vypravěče
 - "oko" kamery
 	Vypráví pouze situace. Nikomu nevidí do hlavy.
 
-## Typy promluv
-- Monolog
-- Dialog
-
-### Řeč
+## Vyprávěcí způsoby
 - Přímá 
 	Označená
 	Jakub řekl: ,, Jdi domů". Tak jsem šel.
@@ -76,6 +77,24 @@ Druhy vypravěče
 	Př. Jakub řekl, že mám jít domů.
 - Polopřímá
 	Nelze 100% poznat v textu.
+
+## Typy promluv
+- Pásmo vypravěče
+	Promluva vypravěče v ich nebo er formě.
+- Monolog
+	Promluva jedné postavy.
+- Dialog
+	Rozhovor mezi více postavami.
+
+## Veršová výstavba
+Určit druh rýmu a kolik slok a veršů obsahuje úryvek.
+
+Druhy rýmů
+- Sdružený rým AABB
+- Střídavý ABAB
+- Obkročný ABBA
+- Překrývaný ABCD
+- Postupný rým ABC ABC
 
 ## Tropy a figury
 
