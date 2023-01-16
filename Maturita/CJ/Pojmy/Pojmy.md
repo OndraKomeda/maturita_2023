@@ -42,7 +42,7 @@
 5. Devětsil
 6. Skupina 42
 	Doba: Podle názvu 1942 do 1948.
-	Zaměření na obyčejný reálný městský život.
+	Zaměření na obyčejný reálný městský život. Občas na syrový život.
 	Autoři: 
 7. prokletí básnící
 8. lost generation
