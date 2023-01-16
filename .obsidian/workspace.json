@@ -23,8 +23,12 @@
             "id": "8932fa35fe94c4a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md"
+              }
             }
           }
         ]

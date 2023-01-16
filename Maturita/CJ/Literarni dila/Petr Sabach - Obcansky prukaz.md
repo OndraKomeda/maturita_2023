@@ -17,8 +17,11 @@
 
 # Téma a motiv
 # Časoprostor
+V praze za doby komunizmu v Čechách po invazi SSSR v roce 1968. Přesně 70 léta.
 # Kompoziční výstavba
+Děj postupuje chronologicky a 
 # Literární druh a žánr
+Literární druh je epika a žánr
 # Vypravěč / lirický subjekt
 # Postavy
 # Vyprávěcí způsoby
