@@ -13,7 +13,7 @@
 3. část 
 	Hledání tropů a figur ve výňatku
 4. část
-	Autor a jeho doba
+	Autor [[Petr Sabach]]
 
 # Téma a motiv
 # Časoprostor

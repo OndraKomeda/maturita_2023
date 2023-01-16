@@ -11,12 +11,8 @@
             "id": "942cdae9cfee4774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,14 +153,14 @@
   "active": "942cdae9cfee4774",
   "lastOpenFiles": [
     "Maturita/CJ/Seznam literarnich del.md",
+    "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
+    "Maturita/CJ/Autori/Petr Sabach.md",
     "Maturita/PV/Otazky/Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns.md",
     "Maturita/CJ/Pojmy/Pojmy.md",
-    "Maturita/CJ/Literarni dila/Petr Sabach - Obcansky prukaz.md",
     "Maturita/CJ/Prvni republika.md",
     "Untitled.canvas",
     "README.md",
     "Maturita/PV/Otazky/Komunikace v síti - Využití UDP a TCP protokolu.md",
-    "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md",
-    "Maturita/PV/Otazky/Adresování a správa paměti - Garbage collecting, Reference ukazatele, Struktura paměti programu.md"
+    "Maturita/PV/Otazky/Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení.md"
   ]
 }
