@@ -32,7 +32,10 @@ Jedna z hlavních postav Petr. Vyprávěl v ich-formě.
 1. Petr
 2. Míťa
 3. Aleš
-4. Po
+4. Popelka
+5. Daněk
+6. Paní učitelka Pivoňková
+7. Petrovi rodiče
 # Vyprávěcí způsoby
 # Typy promluv
 # Veršová výstavba
