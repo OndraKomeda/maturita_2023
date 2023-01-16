@@ -34,7 +34,10 @@
 	Cíl: Snaha zvednout úrověn České literatury na světovou. Snaha zachytit skutečnost.
 	Autoři: Jan Neruda, Božena Němcová
 2. Lumírovci
+	Doba: Za Rakousko-Uherska
+	Překládali 
 3. Ruchovci
+	Panslavismu
 4. Buřiči
 	Doba: 20 století do konce první světové války.
 	Bouří se proti své době. Byla nedostatečná svoboda a to projevovali ve svých dílech.
