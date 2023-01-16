@@ -9,13 +9,19 @@
 	- [[#Postavy]]
 	- [[#Vyprávěcí způsoby]]
 	- [[#Typy promluv]]
-	- [[#Veršová výstavba]]
 3. část 
 	Hledání tropů a figur ve výňatku
 4. část
 	Autor [[Petr Sabach]]
 
 # Téma a motiv
+- Téma
+	Skupina mladých studentů, která je proti totalitnímu komunistickému režimu v ČSR, se snaží získat modrou kartu, ať nemusí jít na vojnu.
+- Motivy
+	- Válka
+	- Nepřiměřené tresty
+	- Dospívání za komunistického režimu po invazi SSSR. 
+
 # Časoprostor
 V praze za doby komunizmu v Čechách po invazi SSSR v roce 1968. Přesně 70 léta.
 
@@ -37,6 +43,6 @@ Jedna z hlavních postav Petr. Vyprávěl v ich-formě.
 6. Paní učitelka Pivoňková
 7. Petrovi rodiče
 # Vyprávěcí způsoby
+
+
 # Typy promluv
-# Veršová výstavba
-# Jazykové prostředkové
