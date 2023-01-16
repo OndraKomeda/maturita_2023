@@ -1,7 +1,3 @@
----
-cards-deck: maturita_2023::Maturita::CJ::Pojmy
----
-
 
 # Table of contents
 - [[#Struktura ústní zkoušky]]
