@@ -41,7 +41,7 @@
 	Panslavismu
 4. Česká moderna
 	Doba: Přelom 19./20. století za doby Rakousko-Uherska
-	Cíl
+	Cíl: Symbolismus, Dekadence, Impresionismus. Navazují na lumírovce a autory Jana Nerudu. Překlad ze světových jazyků a dosáhnout mezinárodní úrověn.
 5. Buřiči
 	Doba: 20 století do konce první světové války.
 	Bouří se proti své době. Byla nedostatečná svoboda a to projevovali ve svých dílech.
