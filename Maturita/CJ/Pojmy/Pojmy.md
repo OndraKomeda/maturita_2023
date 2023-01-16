@@ -47,6 +47,7 @@
 	Bouří se proti své době. Byla nedostatečná svoboda a to projevovali ve svých dílech.
 	Autoři: Viktor Dyk
 5. Devětsil
+	
 6. Skupina 42
 	Doba: Podle názvu 1942 do 1948.
 	Zaměření na obyčejný reálný městský život. Občas na syrový život.
