@@ -13,5 +13,5 @@ V komunistickém režimu byla cenzura, takže nemohl psát nic proti režimu. Kn
 
 Vystudoval filozofickou fakultu karlovy univerzity.
 
-Autoři doby - ladislav fuks.
+Autoři doby - ladislav fuks a bohumil hrabal
 A nebo dokonce i Václav Havel, který psal samizdat.
