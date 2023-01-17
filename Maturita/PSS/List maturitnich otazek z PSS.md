@@ -1,7 +1,7 @@
 1. [[IPv4]]
 2. [[IPv6]]
 3. [[Zakladni sitove technologie]]
-4. [[OSI model siti, rodina protokolu TCP/IP]]
+4. [[OSI model siti, rodina protokolu TCP-IP]]
 5. [[Zakladni principy Ethernetu, jeho standardy, strukturovana kabelaz.]]
 6. [[Smerovani na siti. (RIP, OSPF)]]
 7. [[STP]]

@@ -18,7 +18,7 @@
     
 -   Komunikace s databázovým systémem - Připojení, Ukládání a načítání dat, Mapování entit v OOP
     
--   [[Komunikace v síti - Využití UDP a TCP protokolu]]
+-   [[UDP a TCP]]
     
 -   Metodiky a životní cyklus vývoje softwaru
     
