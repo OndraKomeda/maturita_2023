@@ -5,12 +5,14 @@
 - [[#OSI vs TCP-IP]]
 
 # TCP-IP model
-1. Network interface 
-2. Network - Přidání headeru
-3. Transport - Komunikace pomocí [[UDP a TCP]].
+1. Network interface - Tato vrstva se v OSI modelu dělí na
+	1. Physical - Reprezentuje fyzicky odesílané bity. Cables, HUB, Wireless.
+	2. Data link - Přidá Header a Trailer, který obsahuje MAC adresy. Switch.
+2. Network - Přidání headeru, který obsahuje IP adresy. Router, Layer 3 switch.
+3. Transport - Komunikace pomocí [[UDP a TCP]]. Slouží ke kontrole správného doručení PDU.
 4. Application - Tato vrstva se v OSI modelu dělí na
 	1. Session - Z části zbyt
-	2. Presentation - Tato vrstva má za úkol zašifrovat a zkomprimovat data z aplikační vrsvty OSI modelu.
+	2. Presentation - Tato vrstva má za úkol zašifrovat a zkomprimovat data z aplikační vrsvty OSI modelu. SSL, TSL, JPG
 	3. Application - Data přímo z aplikace. (Formát dat určuje aplikační protokol např. SSH nebo SMTP)
 
 # OSI model

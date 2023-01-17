@@ -29,7 +29,7 @@ V praze za doby komunizmu v Čechách po invazi SSSR v roce 1968. Přesně 70 l�
 Vnitřní kompozice je chronologická a vnější je dělena do nepojmenovaných kapitol.
 
 # Literární druh a žánr
-Literární druh je epika a žánr
+Literární druh je epika a žánr román.
 
 # Vypravěč / lirický subjekt
 Jedna z hlavních postav Petr. Vyprávěl v ich-formě.
@@ -43,6 +43,7 @@ Jedna z hlavních postav Petr. Vyprávěl v ich-formě.
 6. Paní učitelka Pivoňková
 7. Petrovi rodiče
 # Vyprávěcí způsoby
-
+Objevuje se přímá řeč.
 
 # Typy promluv
+Monology i dialogy
