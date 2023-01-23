@@ -16,6 +16,7 @@
 		- [[#Tropy a figury]]
 - [[#Slohové postupy]]
 - [[#Funkční styly]]
+- [[#Slohové útvary]]
 - [[#Historie Čech od 19. do 21. století]]
 - [[#Literární skupiny]]
 - [[#Formy a typy vypravěců]]
@@ -109,7 +110,10 @@ Druhy rýmů
 5. Řečnický - povídání na veřejnosti s cílem někoho přesvědčit.
 6. Umělecký
 
+## Slohové útvary
+
 ## Historie Čech od 19. do 21. století
+![[Pasted image 20230123105455.png]]
 ### Čechy za Rakousko-uherska
 ### První republika 1918-1938
 - Vznik Československa
@@ -149,9 +153,13 @@ Druhy rýmů
 	Zaměření na obyčejný reálný městský život. Občas na syrový život.
 	Autoři: 
 7. prokletí básnící
+	Doba: Rakousko-uhersko
+	Hambatější výrazy. Alkohol. Odlišení od společnosti. Začátek ve Francii. 
 8. lost generation
-	Doba: Básníci, kteří prožili první světovou válku na frontě. Narozeni kolem 1900.
+	Doba: Spíše američští básníci, kteří prožili první světovou válku na frontě. Velká hospodářská krize, kvůli krachu burzy. Narozeni kolem 1900.
 	Válka autorům způsobila psychické problémy a to šlo vidět v jejich dílech.
 	Autoři: Ernest Hemingway
 9. beat generation
-	Doba: 50 až 60 léta 20 století v USA.
+	Doba: 50 až 60 léta 20 století v USA. Odmítnutí společnosti. Jazz byl symbolem, která nebylá v době oblíbená, protože byla považována za "černošskou hudbu". Spíše to byl styl žití než styl literatury.
+
+Aliterace - opakování zvuků na začátku.

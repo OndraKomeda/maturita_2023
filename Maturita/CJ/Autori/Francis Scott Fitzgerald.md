@@ -1,0 +1,1 @@
+Americký spisovatel ztracené generace.

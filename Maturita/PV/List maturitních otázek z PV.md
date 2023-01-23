@@ -11,15 +11,11 @@
 -   Asymptotické paměťové a časové složitosti
     
 -   Datové typy, Generika, Výčtové datové typy, Struktury, Anotace, Operátory
-    
--   Dědičnost, method overriding, function overloading
-    
+-   [[Dedicnost, method overriding, function overloading]]
 -   Integrita dat, bezpečnost, logování, kontrola vstupů, zpracování chyb
     
 -   Komunikace s databázovým systémem - Připojení, Ukládání a načítání dat, Mapování entit v OOP
-    
 -   [[UDP a TCP]]
-    
 -   Metodiky a životní cyklus vývoje softwaru
     
 -   [[Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns]]
