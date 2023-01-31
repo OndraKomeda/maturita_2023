@@ -12,7 +12,7 @@
 3. část 
 	Hledání tropů a figur ve výňatku
 4. část
-	Autor [[Petr Sabach]]
+	Autor [[Ray Bradbury]]
 
 # Téma a motiv
 - Téma
@@ -27,7 +27,10 @@ V neurčité budoucnosti na neurčitém místě, pravděpodobně v Americe kvůl
 
 # Kompoziční výstavba
 Vnější - děleno na tři pojmenovane části
-Vnitřní - děj je chronologicky
+1. Ohniště Salamandr
+2. Síto a písek
+3. Ohěn se rozhoří
+Vnitřní - děj je chronologicky s retrospektivnímy prvky
 
 # Literární druh a žánr
 Epika
@@ -47,6 +50,6 @@ Clarissa - mladá dívka, která otevře oči Montangovi. Čte knihy a v první 
 Objevuje se přímá řeč.
 
 # Typy promluv
-Monology i dialogy
+Skoro na každé stránce se objeví dialog nebo monolog v označené přímé řeči.
 
 

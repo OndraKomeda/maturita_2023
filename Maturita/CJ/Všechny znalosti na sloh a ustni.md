@@ -24,7 +24,12 @@
 				1. Přímá řeč (označená) "řekl: ,,Jdi domů"
 				2. Neoznačená přímá řeč "Otevřel pusu. Jdi domů. Tak jsem šel"
 				3. Nepřímá řeč. "řekl, že más jít domů"
-1. Literární historie
+2. Literární historie
+3. [[#Druhy jazyka]]
+4. Sloh
+	1. Slohové útvary
+	2. Funkční styly
+	3. Slohové postupy
 
 
 # Literární teorie
@@ -53,3 +58,15 @@ Snowball - Leon Trotsky
 Mollie - cared only about herself
 Boxer - dedicated tricked communist supporter
 
+
+# Druhy jazyka
+Spisovný jazyk
+	Spisovná = Oficiální forma jazyka
+	Hovorová = volnější forma spisovného jazyka. Mluvená. Obsahuje nějaké slova z obecného jazyka. Příklad: píšu/píši
+Nespisovný(obecný) jazyk
+	Nářečí = slovní zásoba podle geografické polohy.
+	Slang = slovní zásoba podle skupiny.
+		žargon = odborná terminologie 
+		Argot = slovní zásoba, která se snaží skrýt kriminální činy. (kriminální slang)
+	Vulgarismy = negativní slovo, které má velkou citovou hodnotu.
+	
