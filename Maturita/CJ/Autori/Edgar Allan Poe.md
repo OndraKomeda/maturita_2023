@@ -2,7 +2,7 @@ Americký kritik, básník a kritik. Je známý za své krátké hororové a mys
 
 Narodil se na začátku 19. století v Bostnu. Neznal své rodiče. Jeho otec odešel a jeho matka zemřela v jeho třech letech.
 
-Bydlel u úspěšného byznysmena. Neměl peníze při studiu, tak zkusil gamblit, ale akorát vše prohrál. Vrátil se zpět do Bostnu a tam vydal svoji první knihu Tamerlane and Other Poems. Šel do armády. Oženil se a potom co dostal cenu za The Gold Bug a vydal jeho nejznámnější dílo Vrána, mu zemřela žena, ve stejném věku jako matka ve 22 na tuberkolózu. Dál psal, ale měl zdravotní a drogové problémy.
+Bydlel u úspěšného byznysmena. Neměl peníze při studiu, tak zkusil gamblit, ale akorát vše prohrál. Vrátil se zpět do Bostnu a tam vydal svoji první knihu Tamerlane and Other Poems. Šel do armády. Oženil se a potom co dostal cenu za The Gold Bug a vydal jeho nejznámnější dílo Vrána, mu zemřela žena, ve stejném věku jako matka ve 24 na tuberkolózu. Dál psal, ale měl zdravotní a drogové problémy.
 
 Jeho poslední slova byla "Lord, help my soul!"
 

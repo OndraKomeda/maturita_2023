@@ -1,0 +1,1 @@
+Narodil se a žil velkou část svého života v Indii. Rodiče ho v osmi poslali studovat do UK. Později se vrátil do Indie, kde pracoval jako policista. Kvůli nemoci odešel a přestěhoval se do Anglie. První světové války se nezúčastnil, protože byl moc mladý. A druhé se nezúčastnil kvůli jeho zdraví. Psal noviny, romány.

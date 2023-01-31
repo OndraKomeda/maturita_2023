@@ -163,3 +163,6 @@ Druhy rýmů
 	Doba: 50 až 60 léta 20 století v USA. Odmítnutí společnosti. Jazz byl symbolem, která nebylá v době oblíbená, protože byla považována za "černošskou hudbu". Spíše to byl styl žití než styl literatury.
 
 Aliterace - opakování zvuků na začátku.
+
+stres na slabiky - 8 durazu u raven
+zvukomalba / onomatepeia
