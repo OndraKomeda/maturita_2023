@@ -16,18 +16,18 @@
 
 # Téma a motiv
 - Téma
-	Skupina mladých studentů, která je proti totalitnímu komunistickému režimu v ČSR, se snaží získat modrou kartu, ať nemusí jít na vojnu.
+	Požárník, který je ze začátku ovečka, ale později otevírá oči a začne být proti režimu.
 - Motivy
 	- Válka
 	- Nepřiměřené tresty
-	- Dospívání za komunistického režimu po invazi SSSR. 
+	- Slepé následování
 
 # Časoprostor
 V neurčité budoucnosti na neurčitém místě, pravděpodobně v Americe kvůli Fahrenheitum. Dystopicka budoucnost, kde je vše automatizované a budovy jsou z nehořlavých materiálu.
 
 # Kompoziční výstavba
 Vnější - děleno na tři pojmenovane části
-1. Ohniště Salamandr
+1. Ohniště a Salamandr
 2. Síto a písek
 3. Ohěn se rozhoří
 Vnitřní - děj je chronologicky s retrospektivnímy prvky

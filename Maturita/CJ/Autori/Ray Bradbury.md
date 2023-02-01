@@ -11,3 +11,5 @@ Naštěstí kvůli svému špatnému zraku se ve druhé světové válce vyhnul 
 
 Jeho první hlavní práce je Marťanská kronika. Sci-fi.
 Říjnová země. Obsahuje krátké hororové příběhy.
+
+Další autoři Sci-Fi z ameriky byly Frank Herbert, který vydal Dune nebo 

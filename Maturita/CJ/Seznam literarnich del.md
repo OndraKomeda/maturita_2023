@@ -2,3 +2,4 @@
 [[Petr Sabach - Obcansky prukaz]]
 [[Edgar Allan Poe, Havran]]
 [[George Orwell - Farma zvirat]]
+[[Erich Maria Remarque - Na západní frontě klid]]

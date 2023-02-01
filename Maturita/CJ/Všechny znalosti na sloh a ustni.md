@@ -50,6 +50,16 @@ Důraz je vždy na první slabice slova nebo na předložce
 jamb - Na lichých =||=
 Trochej - Na sudých slabikách nesmí být téze víceslabikového slova.
 
+Horizontální a vertikální členění textu.
+Vertikální člěnění textu - Titulní strana, citace, obsah a členění třeba na verše,název, stopy, sloky, odstavec, kapitola. Použitý nadpis, použité podtržení, použitá kurzíva. Čím se liší 
+Horizontální - Vyznačení textu, třeba tlustý text, kurzíva. Jak se dělí v řádku text. Zvýraznění barvami. 
+
+Verš je řádek, který má rytmus.
+Měly by verše mít stejný počet slabik.
+Teze je na začátku slova a na kazde liche slabice.
+
+AABB sdruzeny Volný verš je verš, který neodpovídá rytmu. 
+
 ### Drama
 Nicholas II. - Mr. Jones
 Old Major - Karl Marx
@@ -74,6 +84,7 @@ Nespisovný(obecný) jazyk
 # Sloh
 ## Slohové útvary
 ### Popis(líčení, charakteristika, popis pracovního postupu)
+
 ### Formální dopis(žádost, stížnost, motivační dopis)
 Administrativní funkční styl!
 Začíná adresou odesílatele
@@ -101,6 +112,11 @@ Jak psát adresu?
 	3. ulice + popisné číslo
 	4. psč + Město
 ### Úvaha
+Formální s osobnímy názory. Argumentace. Publicistický
+Nadpis
+Upoutání (řečnické otázky)
+Text vždy odpověd na jednu otázku.
+Závěr-shrnutí
 ### Vyprávění
 ### Zpráva nebo reportáž
 ### Referát
@@ -128,7 +144,7 @@ Jak psát adresu?
 	Erich Maria Remarque
 - Avantgardní směry
 	První polovina 20. století.
-	Snaží se vzepřít literárním normám. Pokus o experimentování a inovaci. Snaží se být prostě odlišní.
+	Avantgarda se snaží vzepřít literárním normám. Pokus o experimentování a inovaci. Snaží se být prostě odlišní.
 	- Surrealismus
 		Podvědomí autora. Pomocí drog nebo snů. Cokoliv se v hlavě objeví. 
 	- Poetismus
@@ -137,6 +153,20 @@ Jak psát adresu?
 		Rozvoj techologie, budoucnost a válka.
 	- Absurdní drama
 		Forma divadelního žánru, který se zaměřuje na zobrazení nesmyslných situací a událostí. Hrdinové se často objevují v chaotických situacích.
+		Ladislav Fuks
+	- Modernismus
+		Doba první poloviny 20. století. Technologické vymoženosti.
+		Erich Maria Remarque
+		Karel Čapek
+		Ernest Hamingway
+		Francis Scott Fitzgerald
+		Bohumil Hrabal
+	- Postmodernismus
+		Doba druhé poloviny 20. století. Proti autoritní a avangardní.
+		Raym Bradbury
+		- Magický realismus
+			Ukazuje údálosti z více pohledů. Obsahuje prvky z fantazie. Zobrazuje svět, kterému by mohl nebo někdo věří.
+			Bohumil Hrabal
 - Klasicismus
 	Člověk by měl vždy hluboce nad něčím přemýšlet. Dopředu si bude plánovat život a kariéru. Lehké lži. Formální styl.
 - Romantismus
@@ -176,3 +206,6 @@ Jak psát adresu?
 	Spiritualita. Drogy. Jazz "černošská hudba". Hippies. Po válce se snažili jakkoliv cítit dobře. Buď s použitím drog nebo sexu. Spíše způsob žití. Svobodné mluvení a explorace sexuality. 
 	Allen Ginsberg - Howl
 	Jack Kerovac - On the Road
+
+U-UU--U-U--UU---
+UU--U-U-U--UU--
