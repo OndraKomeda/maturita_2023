@@ -1,4 +1,4 @@
-# List of contents
+	# List of contents
 1. část
 	- [[#Téma a motiv]]
 	- [[#Časoprostor]]
@@ -21,6 +21,7 @@
 	- Válka
 	- Nepřiměřené tresty
 	- Slepé následování
+	- Totalita
 
 # Časoprostor
 V neurčité budoucnosti na neurčitém místě, pravděpodobně v Americe kvůli Fahrenheitum. Dystopicka budoucnost, kde je vše automatizované a budovy jsou z nehořlavých materiálu.
@@ -34,7 +35,7 @@ Vnitřní - děj je chronologicky s retrospektivnímy prvky
 
 # Literární druh a žánr
 Epika
-Dystopický román
+Dystopický sci-fi román
 
 # Vypravěč / lirický subjekt
 Forma - er forma
@@ -45,11 +46,20 @@ Guy Montag - požárník, který pálí knihy. Nejprve ovečka, která slepě n�
 
 Mildred - žena Montanga. Zaslepená ovečka, která slepě následuje stát a sleduje telestěnu celý den. Jako v téhle době někteří TikTok.
 
-Clarissa - mladá dívka, která otevře oči Montangovi. Čte knihy a v první části umírá.
+Clarissa - mladá dívka, která otevře oči Montangovi. Čte knihy a v první kapitole umírá.
+
+Velitel Beatty - oddaný povolání, tvrdí, že z knih jsou pouze negativní emoce a lži.
+
+Profesor Faber - vzdělaný, čte knihy a pomůže uniknout Montangovi
+
 # Vyprávěcí způsoby
 Objevuje se přímá řeč.
 
 # Typy promluv
-Skoro na každé stránce se objeví dialog nebo monolog v označené přímé řeči.
+Skoro na každé stránce se objeví dialog a občas i monolog v označené přímé řeči.
 
 
+# Děj 
+### Ohniště a salamander
+Ve světě, kde se kniha odehrává je skoro vše stavěno z nehořlavého materiálnu, takže hasičů už není třeba a místo toho pálí knihy. Velitel Beaty, hlavní požárník, tvrdí, že obsah knih vždy lže a akorát přináší negativní emoce. Potká mladou dívku Clarissu, která mu otevře oči a začne číst knihy, které sám páli. Clarissa umírá.
+### Síto a písek
